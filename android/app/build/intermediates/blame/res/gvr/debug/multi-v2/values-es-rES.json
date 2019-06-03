@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Hiran\\Desktop\\cozyAR\\android\\app\\build\\intermediates\\incremental\\mergeGvrDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+            "outputFile": "C:\\projects\\cozyAR\\android\\app\\build\\intermediates\\incremental\\mergeGvrDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hiran\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.34.0.aar\\ea481f31c50d5ba2002b0c4664ec6407\\res\\values-es-rES\\values-es-rES.xml",
+                    "source": "C:\\Users\\Ravindu\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.34.0.aar\\af065d77d786242c0a38804d7e440aa2\\res\\values-es-rES\\values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

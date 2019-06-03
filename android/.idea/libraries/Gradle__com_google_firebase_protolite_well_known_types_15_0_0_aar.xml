@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:protolite-well-known-types:15.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-15.0.0.aar/5f1410114a58d3e0f933eaab769856fa/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-15.0.0.aar/5f1410114a58d3e0f933eaab769856fa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-15.0.0.aar/040d1ee44411c7d59d25689e57ac71ff/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-15.0.0.aar/040d1ee44411c7d59d25689e57ac71ff/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

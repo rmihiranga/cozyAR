@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.lifecycle:livedata:1.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3e21cb9dd0b1e1e48dd87d2ee8e85da5/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3e21cb9dd0b1e1e48dd87d2ee8e85da5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f2839b2ea6fa0bd37948fb46a0e5576b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f2839b2ea6fa0bd37948fb46a0e5576b/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

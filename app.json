@@ -1,4 +1,9 @@
 {
   "name": "cozy",
-  "displayName": "cozy"
+  "displayName": "cozy",
+  "expo": {
+    "name": "MyApp",
+    "displayName": "cozy"
+    
+  }
 }

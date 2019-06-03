@@ -1,17 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:appcompat-v7:23.0.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/099b46cf67e514193ba71ea2fdf67a0e/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/0e19b2ece862bcaec3ba0c4fae7c3230/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/099b46cf67e514193ba71ea2fdf67a0e/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/099b46cf67e514193ba71ea2fdf67a0e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/0e19b2ece862bcaec3ba0c4fae7c3230/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/0e19b2ece862bcaec3ba0c4fae7c3230/jars/classes.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://C:/NVPACK/android-sdk-windows/extras/android/m2repository/com/android/support/appcompat-v7/23.0.1/appcompat-v7-23.0.1-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/NVPACK/android-sdk-windows/extras/android/m2repository/com/android/support/appcompat-v7/23.0.1/appcompat-v7-23.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/23.0.1/787ec3e10ff774b1906e4b58c4985077a95ec944/appcompat-v7-23.0.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -100,7 +100,7 @@ android {
     defaultConfig {
         flavorDimensions "platform"
         applicationId "com.cozy"
-        minSdkVersion 24
+        minSdkVersion 23
         targetSdkVersion 26
         multiDexEnabled true
         versionCode 5

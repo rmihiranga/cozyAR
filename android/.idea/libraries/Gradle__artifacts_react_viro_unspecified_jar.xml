@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:react_viro:unspecified@jar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/00fdfea6925cbd37840278a12fd908d3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/00fdfea6925cbd37840278a12fd908d3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/b51c2d7ac3fbaa837b929025f45798db/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react_viro-release.aar/b51c2d7ac3fbaa837b929025f45798db/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

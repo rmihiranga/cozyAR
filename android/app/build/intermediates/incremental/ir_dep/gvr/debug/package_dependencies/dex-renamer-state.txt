@@ -1,0 +1,7 @@
+#Mon Jun 03 22:09:32 IST 2019
+base.0=C\:\\projects\\cozyAR\\android\\app\\build\\intermediates\\transforms\\dexMerger\\gvr\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\projects\\cozyAR\\android\\app\\build\\intermediates\\transforms\\dexMerger\\gvr\\debug\\10

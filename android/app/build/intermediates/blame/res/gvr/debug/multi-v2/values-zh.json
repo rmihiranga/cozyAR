@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Hiran\\Desktop\\cozyAR\\android\\app\\build\\intermediates\\incremental\\mergeGvrDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "C:\\projects\\cozyAR\\android\\app\\build\\intermediates\\incremental\\mergeGvrDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hiran\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.2-native.aar\\93afce6ad4ffa741272ec87f00f024ab\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\Ravindu\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.2-native.aar\\eed4922ea82e45645f7c62ee4a85ae82\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
